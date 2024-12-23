@@ -31,7 +31,7 @@ const ChristmasInvitation = () => {
         <h1 className="title"> Christmas Invitation </h1>
         <p className="title">🎄<b> NEO TECHNOLOGY</b>🎄</p>
         <p className="message">
-          "Dear HR Team,
+          "Dear Neonians,
           You are cordially invited to join us for a joyous Christmas celebration at the office
           —let's share the festive spirit together :) Freshers - Vizag Team Neo"
         </p>
